@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/krunalgoraniya/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/krunalgoraniya/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/krunalgoraniya/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0043-multiply-strings](https://github.com/krunalgoraniya/LeetCode/tree/master/0043-multiply-strings) |
 | [0097-interleaving-string](https://github.com/krunalgoraniya/LeetCode/tree/master/0097-interleaving-string) |
 | [0953-reverse-only-letters](https://github.com/krunalgoraniya/LeetCode/tree/master/0953-reverse-only-letters) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/krunalgoraniya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/krunalgoraniya/LeetCode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/krunalgoraniya/LeetCode/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/krunalgoraniya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/krunalgoraniya/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
