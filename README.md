@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krunalgoraniya/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/krunalgoraniya/LeetCode/tree/master/0045-jump-game-ii) |
 | [0097-interleaving-string](https://github.com/krunalgoraniya/LeetCode/tree/master/0097-interleaving-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/krunalgoraniya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Linked List
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krunalgoraniya/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0045-jump-game-ii](https://github.com/krunalgoraniya/LeetCode/tree/master/0045-jump-game-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/krunalgoraniya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Binary Search
 |  |
@@ -60,6 +62,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/krunalgoraniya/LeetCode/tree/master/0045-jump-game-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/krunalgoraniya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Simulation
 |  |
