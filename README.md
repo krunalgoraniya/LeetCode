@@ -28,6 +28,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/krunalgoraniya/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/krunalgoraniya/LeetCode/tree/master/0043-multiply-strings) |
+| [3321-type-of-triangle](https://github.com/krunalgoraniya/LeetCode/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/krunalgoraniya/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/krunalgoraniya/LeetCode/tree/master/0045-jump-game-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/krunalgoraniya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3321-type-of-triangle](https://github.com/krunalgoraniya/LeetCode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/krunalgoraniya/LeetCode/tree/master/0043-multiply-strings) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/krunalgoraniya/LeetCode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
