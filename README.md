@@ -47,6 +47,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krunalgoraniya/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/krunalgoraniya/LeetCode/tree/master/0045-jump-game-ii) |
+| [1293-three-consecutive-odds](https://github.com/krunalgoraniya/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [2215-finding-3-digit-even-numbers](https://github.com/krunalgoraniya/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/krunalgoraniya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3321-type-of-triangle](https://github.com/krunalgoraniya/LeetCode/tree/master/3321-type-of-triangle) |
