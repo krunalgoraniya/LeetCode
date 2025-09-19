@@ -10,6 +10,7 @@
 | [0043-multiply-strings](https://github.com/krunalgoraniya/LeetCode/tree/master/0043-multiply-strings) |
 | [0097-interleaving-string](https://github.com/krunalgoraniya/LeetCode/tree/master/0097-interleaving-string) |
 | [0953-reverse-only-letters](https://github.com/krunalgoraniya/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/krunalgoraniya/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/krunalgoraniya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krunalgoraniya/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/krunalgoraniya/LeetCode/tree/master/0141-linked-list-cycle) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/krunalgoraniya/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2215-finding-3-digit-even-numbers](https://github.com/krunalgoraniya/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sliding Window
 |  |
