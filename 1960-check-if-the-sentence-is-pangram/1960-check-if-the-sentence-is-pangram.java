@@ -4,7 +4,7 @@ class Solution {
             boolean found = false;
 
             for(int i = 0; i < sentence.length(); i++) {
-                if(ch == Character.toLowerCase(sentence.charAt(i))) {
+                if(ch == sentence.charAt(i)) {
                     found = true;
                     break;
                 }
